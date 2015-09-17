@@ -1,0 +1,179 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.carousel-inner > .item > img{
+    width: 100%;
+    margin: auto;  
+ }
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;     
+  }
+.forlogohp{
+     color:  #ff4848;
+    font-family: Jokerman;
+    margin-top: 0px;
+}
+.middlemenuhp{
+    margin-left: 300px;
+}
+.formenuhp{
+    color: #000;
+    font-size: 15pt;
+    margin-top: 8px;    
+}
+.formenuhp:hover{
+    color: #c8c8c8;
+}
+.btnSearchhp{
+      background: #ff0000;
+      height: 30px;   
+      margin-top: -8px;
+  }
+   .photproducthp{
+      font-family: Myriad Pro;
+      font-size: 18pt;
+  }
+ .forcontent1hp{
+      width: 100%;
+  }
+  .forfooterhpmidab{
+      margin-top: 40px;
+       color: #000;
+      list-style-type: none;
+  }
+  .forfooterhpmid{
+      color: #000;
+      list-style-type: none;    
+  }
+   .forfooterhpmidab:hover{
+     list-style-type: none;
+     text-decoration: none;
+  }
+   .forfooterhpmid:hover{
+     list-style-type: none;
+     text-decoration: none;
+  }
+  .footerabouthp{
+      margin-top: 30px;
+  }  
+.middlemenuhp{
+    margin-left:120px;
+}
+.forphno{
+    margin-top: 0px;
+    font-size: 15pt;
+    margin-left: 215px;
+}
+.searchbox{
+    margin-left:151px;
+    margin-top: -10px;
+    height: 30px;   
+    width: 200px;
+}
+   .forhotproducthp{      
+      height: 20px;
+      background: red;
+  }
+  .fornewArowhp{
+      margin: 0 auto;
+  }
+  .btnEmailhp{
+      background: #ff0000;
+  }
+    .foricondivhp{
+      margin-top: 20px;
+      background: red;
+      height: 30px;
+      float: left;
+  }
+  .left{
+      float: right;
+  }
+ /*home page end*/
+  /*About us start*/ 
+  .lRheaderau{
+      color: #ff4848;
+      font-size: 25pt;
+  }
+  .ParaAu{
+      font-size: 15pt;
+ }
+  .OMheaderau{
+ color: #ff4848;
+      font-size: 20pt;
+ }
+ /*about us end*/
+  /*Contact us  start*/ 
+.CUheaderCU {
+     background: #e3e2e2;
+ }
+ .CUheadcolCU{
+     font-size: 25pt;
+ }
+ .CUformCU{
+     background: #f2f1f1;
+ }
+ .foremaillbCU{
+     margin-top: 30px;
+     width: 81%;
+ }
+ .RBtnCU{
+     background: black;
+ }
+ .SBtnCU{
+     background: #e0241c;
+ }
+ .forMessCU{
+     width: 100%;
+ }
+  /*Products start*/ 
+ .left{
+     background: red;
+}
+ .right{
+     background: yellow;
+ }
+ /*form*/
+body,html{
+   color:#333;
+   font-family: 'Source Sans Pro', sans-serif;
+}
+.form_table{
+   margin:20px 0 20px 0;
+}
+.table.table-borderless td, .table.table-borderless th {
+    border: 0 !important;
+}
+.table.table-borderless {
+    margin-bottom: 0px;
+}
+.save{
+   border-radius: 3px;
+   border:1px solid #197582;
+   margin:5px;
+   background:#197582;
+   color:#fff;
+   padding:3px;
+}
+hr{
+   border-top:1px solid #197582;
+}
+.table.table-bordered td, .table.table-bordered th {
+    border:1px solid #197582;
+}
+.table.table-bordered th {
+    background:  #197582;
+    color:#fff;
+    text-align:center;
+}
+.table.table-bordered td {
+    color:#333;     
+}
+.delete{
+   float:right;
+}
+  
+  
+
